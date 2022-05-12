@@ -1,8 +1,10 @@
 field,display_name,browse_link,external_link,dc_map,schema_map
 title,Title,,,DCTERMS.title,headline
 creator,Creator,,,DCTERMS.creator,creator
+creatorinterview,Creator Interview,,,,
 date,Date Created,,,DCTERMS.created,dateCreated
 description,Description,,,DCTERMS.description,description
+scopeandcontents,Scope and Contents,,,,
 subject,Subjects,true,,DCTERMS.subject,keywords
 creatorinterview,Creator Interview,external_link
 media,Media,,,DCTERMS.media
@@ -10,7 +12,6 @@ signature,Signature,,DCTERMS.signature
 size,Size,,DCTERMS.size
 frame,Frame,,DCTERMS.frame
 condition,Condition,,DCTERMS.condition
-provenance,Provenance,,DCTERMS.provenance
 location,Location,,,,contentLocation
 latitude,Latitude,,,,
 longitude,Longitude,,,,
